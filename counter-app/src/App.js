@@ -40,7 +40,7 @@ class Main extends React.Component{
    }
    handleClickDncrement = e =>{
     e.preventDefault();
-    while(this.state.counter>0){
+    if(this.state.counter>0){
     let count = this.state.counter--
     this.setState({count})
     }
