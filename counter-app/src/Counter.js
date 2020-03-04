@@ -36,7 +36,7 @@ class Counter extends React.Component{
       if(this.state.counter>0){
       let count = this.state.counter--
       let name = this.state.name;
-      name = 'Youc cant go less that Zero'
+      name = 'Youc cant go less than Zero'
       let boolian = false;
       if( this.state.counter % 2 === 0){
         boolian = 'true';
