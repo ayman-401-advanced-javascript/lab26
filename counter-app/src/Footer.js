@@ -1,10 +1,10 @@
-import React from 'react';
+// import React from 'react';
 
 
-const Footer = () => {
-  return (
-    <footer><p>CopyRight@Qusai-alhanaktah2020</p></footer>
-  );
-};
+// const Footer = () => {
+//   return (
+//     <footer><p>CopyRight@Ayman App</p></footer>
+//   );
+// };
 
-export default Footer;
+// export default Footer;
